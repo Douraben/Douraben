@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Programming enthusiasts
-- ⚡ Fun fact: It seems that there is no more, I can't remember!
+- ⚡ Fun fact: I don't think so, I don't remember!
 
 <!---
 Douraben/Douraben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
